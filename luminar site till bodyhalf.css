@@ -1,0 +1,162 @@
+
+body{background-color: white;}
+#backimg{
+    height: 500px;
+}
+#backimg:hover{
+    backdrop-filter: blur(10px);
+    filter: blur(4px);
+    transition: 0.5s ease;
+}
+#button1{
+    background-color:#5e068a;
+    border: #5e068a solid 2px;
+    color:white;
+    margin-inline-start: 100px;
+    margin-left:-950px;
+    margin-top: 20px;
+    width:160px;
+    height: 60px;
+    border-radius: 30px;
+    font-weight: bold;
+}
+#button1:hover{ 
+    background-color:#691692;
+    
+} 
+.p1{
+    margin-left:-70px;
+    margin-top: 6px;
+    font-weight: 300;
+}
+h1{
+    position: absolute;
+    margin-top: -164px;
+    margin-left:-70px;
+    text-align: left;
+}
+/* ................................... */
+#button2{
+    opacity: -10;
+} 
+input{
+    border: none;
+}
+form{
+    padding-left: 50px;
+    outline: none;
+    border: none;
+}
+textarea{
+    outline: none;
+    border: none;
+}
+input{
+    width:400px;
+    outline: none;
+    border: none;
+}
+#but2{
+    width: 150px;
+    height: 40px;
+    color:white;
+    background-color: #5e068a;
+}
+#but2:hover{
+    background-color:#691692;
+
+} 
+/* ..................................................... */
+
+ #div1{
+     height: 505px;
+ }
+ #div2{
+    height: 505px;
+}
+#h3l{
+    margin-top: 0px;
+    margin-left: 10px;
+}
+h4{
+    margin-top: 49px;
+    margin-left: 10px;
+}
+.girlimage{
+    margin-top:0px;
+    height: 650px;
+}
+p{
+    margin-top:0px ;
+}
+h5{
+    line-height: 35px;
+    font-weight: 600;
+    margin-top: 30px;
+    font-size: medium;
+    margin-left: 10px;
+    text-align: justify;
+    margin-right: 15px;
+}
+.but3{
+    color:white;
+    background-color: #5e068a;
+    border: #5e068a solid 1px;
+    font-weight:bold;
+    width: 160px;
+    height: 60px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.but3:hover{
+    background-color: white;
+    color: #5e068a;
+    border: #5e068a solid 2px;
+}
+/* ........................................................ */
+h3{
+    margin-top: 120px;
+    margin-left: 40%;
+}
+#gal1{
+    height: 352px;
+    margin-top: 100px;
+    width: 485px;
+    
+}
+#gal2{
+    height: 352px;
+    margin-top: 100px;
+    width: 580px;
+    
+}
+#h3d{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right:0px;
+}
+
+#p3{
+    margin-top: 110px;
+    margin-left: 20px;
+    text-align: justify;
+    margin-right: 10px;
+}
+#spa2{
+    line-height: 2;
+}
+#booklady{
+    height: 350px;
+    width: 469px;
+}
+/* ........................................................... */
+#effect{
+    margin-top: 50px;
+}
+#effect:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#card1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
